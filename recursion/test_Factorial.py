@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from Factorial import Factorial
+from python.recursion.Factorial import Factorial
 
 
 class TestFactorial(TestCase):
