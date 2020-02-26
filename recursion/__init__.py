@@ -1,1 +1,1 @@
-__all__ = ["Factorial", "Fibonacci"]
+__all__ = ["Factorial", "Fibonacci", "BinarySearch"]
