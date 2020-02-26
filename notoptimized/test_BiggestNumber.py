@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from notoptimized.BiggestNumber import BiggestNumber
+from python.notoptimized.BiggestNumber import BiggestNumber
 
 
 class TestBiggestNumber(TestCase):
